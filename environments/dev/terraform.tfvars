@@ -1,0 +1,7 @@
+vm_name               = "dev-vm"
+location              = "East US"
+resource_group_name   = "dev-resource-group"
+network_interface_id  = "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/dev-resource-group/providers/Microsoft.Network/networkInterfaces/dev-nic"
+admin_username        = "azureuser"
+admin_password        = "Password123!"
+environment           = "dev"

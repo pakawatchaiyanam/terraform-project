@@ -1,0 +1,7 @@
+vm_name               = "sit-vm"
+location              = "East US"
+resource_group_name   = "sit-resource-group"
+network_interface_id  = "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/sit-resource-group/providers/Microsoft.Network/networkInterfaces/sit-nic"
+admin_username        = "azureuser"
+admin_password        = "Password123!"
+environment           = "sit"
